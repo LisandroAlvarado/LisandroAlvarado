@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Lisandro Alvarado
 
-<!--
-**LisandroAlvarado/LisandroAlvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack JavaScript Developer
 
-Here are some ideas to get you started:
+Actualmente cursando el Bootcamp Full Stack JavaScript en Desafío Latam.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+- Git
+- GitHub
+
+### 📂 Proyectos destacados
+
+- 🍕 Pizzería Mamma Mia
+- ❤️ LikeMe
+- 💎 API REST Joyas
+- 🎵 Mi Repertorio
+
+### 📫 Contacto
+
+- LinkedIn: https://linkedin.com/in/lisandroalvarado
+- GitHub: https://github.com/LisandroAlvarado
